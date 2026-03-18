@@ -1,1 +1,12 @@
-.DS_Store
+node_modules/
+*.json
+.prettierrc
+stylelint.config.js
+.idea/
+*.log
+*.tmp
+.env
+/dist/
+/build/
+*.jar
+*.war
